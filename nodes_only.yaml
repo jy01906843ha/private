@@ -1,0 +1,61 @@
+proxies:
+- name: Youtube顺丰资源  日本 1
+  network: ws
+  port: 8880
+  server: 91.193.58.36
+  servername: ' [By EbraSha]'
+  tls: false
+  type: vless
+  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  ws-opts:
+    headers:
+      host: kjgx.laoyoutiao.link
+    path: / [By EbraSha]
+- name: Youtube顺丰资源  日本 2
+  network: ws
+  port: 8880
+  server: 91.193.58.168
+  servername: sk.laoyoutiao.link
+  tls: false
+  type: vless
+  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  ws-opts:
+    headers:
+      host: sk.laoyoutiao.link
+    path: /Telegram @MxlShare @WangCai2 /?ed
+- name: Youtube顺丰资源  日本 3
+  network: ws
+  port: 8880
+  server: 91.193.58.18
+  servername: kjgx.laoyoutiao.link
+  tls: false
+  type: vless
+  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  ws-opts:
+    headers:
+      host: kjgx.laoyoutiao.link
+    path: freecodes蘇小檸 | 華東電訊 | 解鎖Netflix
+- name: Youtube顺丰资源  日本 4
+  network: ws
+  port: 443
+  server: 160.16.56.195
+  servername: jp.laoyoutiao.link
+  tls: true
+  type: vless
+  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  ws-opts:
+    headers:
+      host: jp.laoyoutiao.link
+    path: Telegram@WangCai2/?ed=2560
+- name: Youtube顺丰资源  日本 5
+  network: ws
+  port: 8880
+  server: 91.193.58.34
+  servername: Telegram-channel-WangCai2
+  tls: false
+  type: vless
+  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  ws-opts:
+    headers:
+      host: kjgx.laoyoutiao.link
+    path: /
